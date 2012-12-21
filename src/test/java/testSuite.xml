@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="testng-tests">
+	<test name="testing" preserve-order="true">
+		<classes>
+			<class name="MyFirstTest"/>
+			<class name="MySecondTest"/>
+		</classes>
+	</test>
+</suite>
